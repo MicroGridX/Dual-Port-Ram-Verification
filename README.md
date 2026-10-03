@@ -17,3 +17,5 @@ The testbench (`tb_ram_dp_generic.v`) verifies the following basic memory operat
 
 ## Simulation Link
 https://edaplayground.com/x/GcpS
+## Waveform
+https://edaplayground.com/w/x/AkC
